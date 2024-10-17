@@ -18,6 +18,9 @@ export default class CommonConstants {
   static readonly HOME_TITLE = '首页'
   // 设置页面的标题文本
   static readonly MINE_TITLE = '我的'
+
+  // 输入框宽度
+  static readonly Full_PARENT = '100%'
 }
 
 

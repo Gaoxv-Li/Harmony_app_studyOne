@@ -11,6 +11,29 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+    },
+    {
+      "name": "login_text",
+      "value": "登录"
+    },
+    {
+      "name": "login_page",
+      "value":"巾凡的APP"
+    },{
+      "name": "login_more",
+      "value": "登录账号以使用更多服务"
+    },{
+      "name": "account",
+      "value": "请输入账号"
+    },{
+      "name": "password",
+      "value": "请输入密码"
+    },{
+      "name": "message_login",
+      "value": "短信验证码登录"
+    },{
+      "name": "forgot_password",
+      "value": "忘记密码"
     }
   ]
 }

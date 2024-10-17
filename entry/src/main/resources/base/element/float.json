@@ -1,0 +1,55 @@
+{
+  "float": [
+    {
+      "name": "logo_image_size",
+      "value": "78vp"
+    },
+    {
+      "name": "logo_margin_top",
+      "value": "100vp"
+    },
+    {
+      "name": "logo_margin_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "page_title_text_size",
+      "value": "24fp"
+    },
+    {
+      "name": "normal_text_size",
+      "value": "16fp"
+    },
+    {
+      "name": "big_text_size",
+      "value": "14fp"
+    },
+    {
+      "name": "small_text_size",
+      "value": "9fp"
+    },
+    {
+      "name": "little_text_size",
+      "value": "12fp"
+    },
+    {
+      "name": "login_more_margin_bottom",
+      "value": "30vp"
+    },
+    {
+      "name": "login_more_margin_top",
+      "value": "15vp"
+    },
+    {
+      "name": "login_input_height",
+      "value": "40vp"
+    },
+    {
+      "name": "input_margin_top",
+      "value": "15vp"
+    },{
+      "name": "line_height",
+      "value": "1vp"
+    }
+  ]
+}

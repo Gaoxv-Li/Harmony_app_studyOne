@@ -8,7 +8,7 @@ export default class CommonConstants {
   //    密码的输入长度
   static readonly INPUT_PASSWORD_LENGTH = 8
   //    输入框的左填充
-  static readonly INPUT_PADDING_LEFT = 0
+  static readonly INPUT_PADDING_LEFT = 10
   //    模拟登录的延迟时间
   static readonly LOGIN_DELAY_TIME = 2000
   //    组件的通用间距
@@ -21,6 +21,10 @@ export default class CommonConstants {
 
   // 输入框宽度
   static readonly Full_PARENT = '100%'
+  // 按钮宽度
+  static readonly BUTTON_WIDTH  = '80%'
+  // 登录方式间距
+  static readonly LOGIN_METHODS_SPACE = '50'
 }
 
 

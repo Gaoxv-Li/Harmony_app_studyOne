@@ -1,8 +1,16 @@
 {
   "float": [
     {
+      "name": "common_padding_l_r",
+      "value": "10vp"
+    },
+    {
       "name": "logo_image_size",
       "value": "78vp"
+    },
+    {
+      "name": "logo_image_radius",
+      "value": "15vp"
     },
     {
       "name": "logo_margin_top",
@@ -26,7 +34,7 @@
     },
     {
       "name": "small_text_size",
-      "value": "9fp"
+      "value": "13fp"
     },
     {
       "name": "little_text_size",
@@ -50,6 +58,35 @@
     },{
       "name": "line_height",
       "value": "1vp"
+    },
+    {
+      "name": "forgot_margin_top",
+      "value": "10vp"
+    },
+    {
+      "name": "login_button_height",
+      "value": "37vp"
+    },{
+      "name": "login_button_margin_top",
+      "value": "80vp"
+    },{
+      "name": "login_button_margin_bottom",
+      "value": "10vp"
+    },{
+      "name": "login_progress_size",
+      "value": "40vp"
+    },{
+      "name": "login_progress_margin_top",
+      "value": "20vp"
+    },{
+      "name": "other_login_margin_top",
+      "value": "10vp"
+    },{
+      "name": "other_login_margin_bottom",
+      "value": "10vp"
+    },{
+      "name": "other_login_image_size",
+      "value": "45vp"
     }
   ]
 }

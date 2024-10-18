@@ -34,6 +34,15 @@
     },{
       "name": "forgot_password",
       "value": "忘记密码"
+    },{
+      "name": "register_account",
+      "value": "注册账号"
+    },{
+      "name": "other_login_method",
+      "value": "其他方式登录"
+    },{
+      "name": "input_empty_tips",
+      "value": "您输入的账号或密码为空"
     }
   ]
 }

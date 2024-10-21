@@ -34,7 +34,7 @@ function blueTextStyle() {
 
 @Entry
 @Component
-struct Index {
+struct Login {
   @State account: string = '' // 登录名
   @State password: string = '' //密码
   @State isShowProgress: boolean = false //控制是否显示進度條

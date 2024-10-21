@@ -43,6 +43,33 @@
     },{
       "name": "input_empty_tips",
       "value": "您输入的账号或密码为空"
+    },{
+      "name": "settings_push_notifications",
+      "value": "推送通知"
+    },{
+      "name": "settings_data_management",
+      "value": "数据管理"
+    },{
+      "name": "settings_menu_settings",
+      "value": "菜单设置"
+    },{
+      "name": "settings_about",
+      "value": "关于"
+    },{
+      "name": "settings_clear_cache",
+      "value": "清除缓存"
+    },{
+      "name": "settings_privacy_agreement",
+      "value": "隐私协议"
+    },{
+      "name": "settings_tabTitles_mine",
+      "value": "我的"
+    },{
+      "name": "settings_account_name",
+      "value": "李先生"
+    },{
+      "name": "settings_account_email",
+      "value": "ligaoxv@126.com"
     }
   ]
 }

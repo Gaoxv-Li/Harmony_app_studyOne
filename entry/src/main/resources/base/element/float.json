@@ -87,6 +87,33 @@
     },{
       "name": "other_login_image_size",
       "value": "45vp"
+    },{
+      "name": "mainPage_tabTitle_margin",
+      "value": "10vp"
+    },{
+      "name": "mainPage_tabTitle_padding",
+      "value": "10vp"
+    },{
+      "name": "settings_account_size",
+      "value": "15vp"
+    },{
+      "name": "settings_account_fontSize",
+      "value": "14fp"
+    },{
+      "name": "settings_name_margin",
+      "value": "15vp"
+    },{
+      "name": "settings_account_margin",
+      "value": "15vp"
+    },{
+      "name": "settings_account_height",
+      "value": "40vp"
+    },{
+      "name": "settings_account_padding",
+      "value": "10vp"
+    },{
+      "name": "settings_account_borderRadius",
+      "value": "15vp"
     }
   ]
 }

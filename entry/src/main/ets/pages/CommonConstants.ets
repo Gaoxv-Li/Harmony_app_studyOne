@@ -25,6 +25,9 @@ export default class CommonConstants {
   static readonly BUTTON_WIDTH  = '80%'
   // 登录方式间距
   static readonly LOGIN_METHODS_SPACE = '50'
+
+//   设置列表高度
+  static readonly SET_LIST_HEIGHT = '50%'
 }
 
 

@@ -3,6 +3,7 @@
  */
 import CommonConstants from './CommonConstants'
 import prompt from '@ohos.promptAction';
+import router from '@ohos.router';
 
 
 @Extend(TextInput)
@@ -55,6 +56,12 @@ struct Login {
           this.isShowProgress = false
           this.timeOutId = -1
           //   页面跳转
+          router.replaceUrl({
+            url:'pages/MySettings',
+            params:{
+              sendMsg:this.account
+            }
+          })
         }, CommonConstants.LOGIN_DELAY_TIME)
       }
     }

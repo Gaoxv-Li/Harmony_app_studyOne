@@ -89,31 +89,70 @@
       "value": "45vp"
     },{
       "name": "mainPage_tabTitle_margin",
-      "value": "10vp"
+      "value": "2vp"
     },{
       "name": "mainPage_tabTitle_padding",
       "value": "10vp"
     },{
       "name": "settings_account_size",
-      "value": "15vp"
+      "value": "40vp"
     },{
       "name": "settings_account_fontSize",
-      "value": "14fp"
+      "value": "18fp"
     },{
       "name": "settings_name_margin",
-      "value": "15vp"
+      "value": "6vp"
     },{
       "name": "settings_account_margin",
-      "value": "15vp"
+      "value": "30vp"
     },{
       "name": "settings_account_height",
       "value": "40vp"
     },{
       "name": "settings_account_padding",
-      "value": "10vp"
+      "value": "30vp"
     },{
       "name": "settings_account_borderRadius",
       "value": "15vp"
+    },{
+      "name": "settings_size",
+      "value": "22vp"
+    },{
+      "name": "settings_jump_width",
+      "value": "15vp"
+    },{
+      "name": "settings_jump_height",
+      "value": "20vp"
+    },{
+      "name": "settings_settingCell_left",
+      "value": "5vp"
+    },{
+      "name": "settings_settingCell_right",
+      "value": "15vp"
+    },{
+      "name": "settings_list_height",
+      "value": "50vp"
+    },{
+      "name": "settings_list_strokeWidth",
+      "value": "1fp"
+    },{
+      "name": "settings_list_startMargin",
+      "value": "40vp"
+    },{
+      "name": "settings_list_endMargin",
+      "value": "20vp"
+    },
+    {
+      "name": "settings_list_borderRadius",
+      "value": "15vp"
+    },{
+      "name": "settings_list_padding",
+      "value": "30vp"
+    },{
+      "name": "setting_button_bottom",
+      "value": "6vp"
     }
+
+
   ]
 }

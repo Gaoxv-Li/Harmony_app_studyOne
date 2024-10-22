@@ -70,6 +70,13 @@
     },{
       "name": "settings_account_email",
       "value": "ligaoxv@126.com"
+    },{
+      "name": "settings_switch",
+      "value": "switch"
+    },{
+      "name": "settings_button",
+      "value": "退出登录"
     }
+
   ]
 }

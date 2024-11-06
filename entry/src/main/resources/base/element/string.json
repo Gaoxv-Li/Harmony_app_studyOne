@@ -65,6 +65,9 @@
       "name": "settings_tabTitles_mine",
       "value": "我的"
     },{
+      "name": "mainPage_tabTitles_home",
+      "value": "首页"
+    },{
       "name": "settings_account_name",
       "value": "李先生"
     },{
@@ -76,7 +79,57 @@
     },{
       "name": "settings_button",
       "value": "退出登录"
+    },{
+      "name": "my_love",
+      "value": "我的最爱"
+    },{
+      "name": "history_record",
+      "value": "历史记录"
+    },{
+      "name": "message",
+      "value": "消息"
+    },{
+      "name": "shopping_cart",
+      "value": "购物车"
+    },{
+      "name": "my_goal",
+      "value": "我的目标"
+    },{
+      "name": "group",
+      "value": "圈子"
+    },{
+      "name": "favorites",
+      "value": "收藏"
+    },{
+      "name": "recycle_bin",
+      "value": "回收站"
+    },{
+      "name": "mainPage_top",
+      "value": "排行榜"
+    },{
+      "name": "mainPage_new",
+      "value": "新品首发"
+    },{
+      "name": "mainPage_brand",
+      "value": "大牌闪购"
+    },{
+      "name": "mainPage_found",
+      "value": "发现好物"
+    },{
+      "name": "mainPage_text_top",
+      "value": "中国台湾站，不见不散"
+    },{
+      "name": "mainPage_text_new",
+      "value": "洛阳站，不见不散"
+    },{
+      "name": "mainPage_text_brand",
+      "value": "更多大牌，更多优惠"
+    },{
+      "name": "mainPage_text_found",
+      "value": "惊喜您意想不到"
+    },{
+      "name": "home_list",
+      "value": "列表"
     }
-
   ]
 }

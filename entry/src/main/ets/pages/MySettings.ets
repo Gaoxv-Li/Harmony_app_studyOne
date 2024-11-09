@@ -7,17 +7,11 @@ import ItemData from './ItemData'
 import DataModel from './DataModel'
 import router from '@ohos.router'
 
-@Entry
+// @Entry
 @Component
-struct MySettings {
-  @State account: number = 1111111
+export default  struct MySettings {
+  private  account: number = -1
 
-  onPageShow(): void {
-    let acc = router.getParams() as Record<string, number>
-    if (acc) {
-      this.account = acc['sendMsg']
-    }
-  }
 
   // 构建设置单元格的函数，接收一个ItemData类型的item作为参数
   @Builder

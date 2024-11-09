@@ -26,8 +26,15 @@ export default class CommonConstants {
   // 登录方式间距
   static readonly LOGIN_METHODS_SPACE = '50'
 
-//   设置列表高度
+  // 设置列表高度
   static readonly SET_LIST_HEIGHT = '50%'
+  // 设置列表宽度
+  static readonly SET_LIST_WIDTH = '42%'
+
+  // 首页标签索引
+  static readonly HOME_TAB_INDEX = 0
+  // 我的设置页标签索引
+  static readonly MY_TAB_INDEX = 1
 }
 
 

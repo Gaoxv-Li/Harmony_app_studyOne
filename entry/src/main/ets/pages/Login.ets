@@ -57,7 +57,7 @@ struct Login {
           this.timeOutId = -1
           //   页面跳转
           router.replaceUrl({
-            url:'pages/MySettings',
+            url:'pages/Index',
             params:{
               sendMsg:this.account
             }

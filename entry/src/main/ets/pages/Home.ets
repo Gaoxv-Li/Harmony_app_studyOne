@@ -6,9 +6,9 @@ import ItemData from './ItemData'
 import DataModel from './DataModel'
 import router from '@ohos.router'
 
-@Entry
+// @Entry
 @Component
-struct Home {
+export default struct Home {
   // 轮播控制器的实例
   private swiperController: SwiperController = new SwiperController()
 

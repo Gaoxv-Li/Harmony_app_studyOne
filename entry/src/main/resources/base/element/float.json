@@ -196,6 +196,21 @@
     },{
       "name": "home_swiper_height",
       "value": "230vp"
+    },{
+      "name": "mainPage_padding",
+      "value": "20vp"
+    },{
+      "name": "mainPage_baseTab_size",
+      "value": "30vp"
+    },{
+      "name": "mainPage_baseTab_top",
+      "value": "3vp"
+    },{
+      "name": "mainPage_baseTab_fontSize",
+      "value": "14fp"
+    },{
+      "name": "mainPage_barHeight",
+      "value": "50vp"
     }
 
 
